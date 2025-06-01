@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ManFaceScript/ManFaceScript/refs/heads/main/Zombie%20Lab%20-%20ManFaceScript%20V1.25"))()
